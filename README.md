@@ -8,6 +8,8 @@ This project uses the PlantVillage dataset to classify plant diseases from leaf 
 The dataset is sourced from the open-access [PlantVillage Dataset](https://github.com/spMohanty/PlantVillage-Dataset), specifically using:
 
 - `raw/segmented` images
+- `raw/color` images
+- `raw/grayscale` images
 - Binary classification: Healthy vs. Diseased
 
 ## 🧠 Models Used
